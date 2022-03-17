@@ -1,0 +1,14 @@
+s=input()
+l=list(s)
+x=[]
+for i in l:
+    if i=='a':
+        if i=='e':
+            if i=='i':
+                if i=='o':
+                    if i=='u':
+                        continue
+    else:
+        x.append(i)
+for i in x:
+    print(i,end='')
